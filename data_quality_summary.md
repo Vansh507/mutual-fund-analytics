@@ -36,4 +36,4 @@ Mutual Fund Analytics Platform
 - NAV history currently includes six schemes fetched for Day 1.
 - Duplicate rows observed in the Average AUM dataset.
 - No missing values observed in NAV datasets.
-- The scheme codes supplied in the internship instructions map to different current schemes in MFAPI, indicating that some reference codes are outdated.
+- The scheme codes supplied in the internship instructions map to different current schemes in MFAPI, indicating that some reference codes are outdated.git commit -m "Day 1: Data ingestion complete"
