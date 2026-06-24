@@ -6,7 +6,7 @@
 
 ## Objective
 
--The objective of Day 1 was to establish the project structure, ingest the provided datasets, fetch live NAV data from MFAPI, perform initial data validation, and prepare the project for further ETL processing.
+The objective of Day 1 was to establish the project structure, ingest the provided datasets, fetch live NAV data from MFAPI, perform initial data validation, and prepare the project for further ETL processing.
 
 ## Datasets Ingested
 
